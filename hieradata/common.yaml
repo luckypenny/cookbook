@@ -1,8 +1,0 @@
----
-user:
-  ger:
-   ensure: present
-   managehome: true
-  harry:
-   ensure: present
-   managehome: true
